@@ -4,3 +4,13 @@
     font-weight: 300;
     font-family: Roboto;
 }
+@media screen and (min-width:0) {
+    .sobre__descripcion{
+        font-size: 1rem;
+    }
+}
+@media screen and (min-width:768px) {
+    .sobre__descripcion{
+        font-size: 1.1875rem;
+    }
+}
